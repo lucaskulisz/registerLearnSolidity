@@ -2,7 +2,7 @@
 register-learn-solidity
 This is a set of very basic smart contracts examples to learn Solidity fundamentals
 
-I suggest to try it in Remix
+I suggest to try it in Remix.
 Comments
 License-Identifier
 Solidity version: pragma command
